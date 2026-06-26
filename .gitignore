@@ -1,2 +1,4 @@
 # Ignore all executable file 
 *.exe
+
+.vscode/
